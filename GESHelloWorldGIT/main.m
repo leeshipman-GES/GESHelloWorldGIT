@@ -11,12 +11,11 @@
 int main(int argc, const char * argv[])
 {
 
-    @autoreleasepool {
+    @autoreleasepool
+    {
         
         // insert code here...
-        NSLog(@"Hello, World!");
-        
+        NSLog(@"Hello, GES with GIT!");
     }
     return 0;
 }
-
