@@ -22,3 +22,4 @@ int main(int argc, const char * argv[])
 
 // Change 1
 // This is a change after getting the files from the GitHub
+// This change occured from inside Safari
